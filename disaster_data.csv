@@ -1,0 +1,7 @@
+region,flood_level,weather_severity,population_risk
+North,80,70,5000
+South,95,90,12000
+East,60,55,3000
+West,88,85,9000
+Central,92,88,15000
+Coastal,98,96,20000
